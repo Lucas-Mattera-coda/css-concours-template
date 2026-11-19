@@ -1,12 +1,13 @@
 :root {
     /* Variables réutilisables */
 
-    --bronze: #a8663b;
-    --argent: #8792a0;
-    --or: #d2a52a;
-    --diamant: #48a8c2;
+    --bronze: #FF6B9A;
+    --argent: #4F8CFF;
+    --or: #A855F7;
+    --diamant: #FF6B9A;
 
 }
+
 
 * {
     box-sizing: border-box;
@@ -14,15 +15,15 @@
 
 body {
     margin: 0;
-    background-color: #f3f5f9;
-    color: #20263a;
+    background-color: #17132f;
+    color: #FFFFFF;
     font-family: "Times New Roman", serif;
     line-height: 1.5;
 }
 
 header {
     padding: 48px 20px;
-    background-color: #2e295b;
+    background-color: #5630A8;
     color: #ffffff;
     text-align: center;
 }
@@ -46,7 +47,7 @@ section > div {
 article {
     overflow: hidden;
     padding: 16px;
-    background-color: #ffffff;
+    background-color: #25203D;
     border: 2px solid #dfe3ec;
     border-radius: 20px;
 }
